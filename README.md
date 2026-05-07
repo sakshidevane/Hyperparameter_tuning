@@ -1,4 +1,4 @@
-# Hyperparameter Tuning Project ⚙️📊
+# Hyperparameter Tuning  ⚙️📊
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Libraries](https://img.shields.io/badge/Libraries-Pandas%20%7C%20NumPy%20%7C%20Scikit--Learn-orange)
@@ -9,13 +9,13 @@
 
 ## 📌 Overview
 
-This project focuses on understanding and applying **Hyperparameter Tuning** techniques in Machine Learning.
+This repository focuses on understanding and applying **Hyperparameter Tuning** techniques in Machine Learning.
 The notebook demonstrates how model performance can be improved by selecting the best parameters for Machine Learning algorithms using different tuning methods.
-Through this project, I practiced model optimization, parameter selection, cross-validation, and performance comparison using Scikit-learn.
+Through this, I practiced model optimization, parameter selection, cross-validation, and performance comparison using Scikit-learn.
 
 ---
 
-## 🎯 Project Objective
+## 🎯 Objective
 
 * Understand the importance of hyperparameters in Machine Learning
 * Improve model accuracy through tuning techniques
@@ -130,7 +130,7 @@ Through this project, I practiced model optimization, parameter selection, cross
 
 ---
 
-## ▶️ How to Run the Project
+## ▶️ How to Run
 
 1. Clone this repository
 2. Install required libraries:
